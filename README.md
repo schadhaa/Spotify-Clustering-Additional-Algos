@@ -1,5 +1,5 @@
 # Spotify Clustering with Unsupervised Machine Learning, Additional Algorithms
-## Sanskriti Chadha, Ajit Selvakumar 
+## Sanskriti Chadha and Ajit Selvakumar 
 
 This project is about using unsupervised machine learning techniques to create similar playlist clusters of Spotify songs based on a 
 number of different attributes. Using our Principal Component Analysis, which reduced dimensionality, we explored and implemeneted
